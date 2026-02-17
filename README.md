@@ -12,7 +12,7 @@ Algoritma yang digunakan adalah **Brute Force** dengan memanfaatkan permutasi. S
 ## B. Requirement 
 Untuk menjalankan program ini, diperlukan:
 * **Menginstall C++ Compiler** : Jika belum menginstall bisa lihat [di sini](https://code.visualstudio.com/docs/languages/cpp) untuk tutorial lebih lanjut.
-* **Menginstall C++ Compiler** : Clone reporsitory ini dengan perintah
+* **Clone Repo** : Clone reporsitory ini dengan perintah
 ```bash
 git clone https://github.com/ucupsss/Tucil1_13524014.git
 ```

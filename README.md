@@ -18,6 +18,10 @@ git clone https://github.com/ucupsss/Tucil1_13524014.git
 ```
 
 ## C. Cara Mengkompilasi Program
+Pindahkan directory ke folder src dengan perintah berikut pada terminal:
+```bash
+cd src
+```
 Gunakan perintah berikut pada terminal atau command prompt untuk mengkompilasi kode sumber:
 ```bash
 g++ -o solver main.cpp
